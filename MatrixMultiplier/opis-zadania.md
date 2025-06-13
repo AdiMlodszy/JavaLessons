@@ -95,6 +95,26 @@ for (int i = 0; i < SIZE; i++) {
 }
 ```
 
+## Sposób budowania i uruchamiania programu
+
+### 1. **Kompilacja**
+
+Skompiluj wszystkie pliki razem, będąc w folderze z plikami `.java`:
+
+```
+javac MatrixMultiplier.java MatrixMultiplier.java
+```
+
+Powstaną pliki `.class` dla każdej klasy/interfejsu.
+
+### 2. **Uruchomienie**
+
+Program uruchamiasz komendą:
+
+```
+java MatrixMultiplier
+```
+
 ## Najważniejsze zalety rozwiązania
 
 - Optymalizacja: nie są wykonywane niepotrzebne obliczenia dla wierszy, które i tak zawierają zero

@@ -115,6 +115,26 @@ for (int i = 0; i < STUDENTS; i++) {
 }
 ```
 
+## Sposób budowania i uruchamiania programu
+
+### 1. **Kompilacja**
+
+Skompiluj wszystkie pliki razem, będąc w folderze z plikami `.java`:
+
+```
+javac StudentsScoresAnalysis.java StudentsScoresAnalysis.java
+```
+
+Powstaną pliki `.class` dla każdej klasy/interfejsu.
+
+### 2. **Uruchomienie**
+
+Program uruchamiasz komendą:
+
+```
+java StudentsScoresAnalysis
+```
+
 ## Najważniejsze zalety rozwiązania
 
 - Automatyzacja analizy ocen i czytelna prezentacja danych.
