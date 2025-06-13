@@ -82,7 +82,3 @@ Projekt prezentuje różne podejścia do rozwiązywania zadań programistycznych
 * Obsługa błędów oraz programowanie zgodne z dobrymi praktykami
 
 Kod nadaje się zarówno do nauki, jak i jako wzór na zaliczenie/przegląd podstaw programowania w Javie.
-
----
-
-Jeśli chcesz rozwinąć któryś z opisów zadań lub dodać autorstwo – daj znać!
